@@ -42,8 +42,17 @@ extra-deps:
 - probability-0.2.5.2
 - random-1.1
 - mtl-2.2.2
-#- gtk2hs-buildtools-0.13.5.0
+#- hpp-0.6.1
+#- GLUtil-0.10.3
 #- cairo-0.13.6.0
+#- gtk2hs-buildtools-0.13.5.0
+#- pango-0.13.6.0
+#- glib-0.13.7.0
+#- errors-2.3.0
+#- transformers-0.5.6.2
+#- pipes-4.3.9
+#- OpenGL-3.0.2.2
+#- dynamic-graph-0.1.0.12
 #- Chart-1.9
 #- Chart-cairo-1.9
 
